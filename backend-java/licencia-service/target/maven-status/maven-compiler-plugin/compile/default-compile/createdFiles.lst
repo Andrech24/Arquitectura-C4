@@ -1,0 +1,7 @@
+com\udla\scisriant\licencia\LicenciaServiceApplication.class
+com\udla\scisriant\licencia\service\AntWebClient.class
+com\udla\scisriant\licencia\cache\LicenciaCacheEntry.class
+com\udla\scisriant\licencia\dto\LicenciaDTO.class
+com\udla\scisriant\licencia\service\LicenciaService.class
+com\udla\scisriant\licencia\cache\LicenciaCacheRepository.class
+com\udla\scisriant\licencia\controller\LicenciaController.class

@@ -1,0 +1,11 @@
+com\udla\scisriant\apigateway\dto\ConsultaRequest.class
+com\udla\scisriant\apigateway\service\ContribuyenteClient.class
+com\udla\scisriant\apigateway\service\VehiculoClient.class
+com\udla\scisriant\apigateway\ApiGatewayApplication.class
+com\udla\scisriant\apigateway\dto\ContribuyenteDTO.class
+com\udla\scisriant\apigateway\dto\LicenciaDTO.class
+com\udla\scisriant\apigateway\dto\VehiculoDTO.class
+com\udla\scisriant\apigateway\service\LicenciaClient.class
+com\udla\scisriant\apigateway\controller\ConsultaController.class
+com\udla\scisriant\apigateway\dto\RespuestaCompletaDTO.class
+com\udla\scisriant\apigateway\service\ConsultaService.class
